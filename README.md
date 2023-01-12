@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vergilet
 - 👀 I'm interested in Ruby apps speedup and effective way to maintain highly loaded systems
 - 🌱 I’m currently learning message queues
-- 💞️ I’m currently working on vergilet/schoolgirl_uniform
+- 💞️ I’m currently working on [vergilet/schoolgirl_uniform](https://github.com/vergilet/schoolgirl_uniform)
 - 📫 How to reach me ... hm ...
 
 <!---
